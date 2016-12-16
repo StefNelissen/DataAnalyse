@@ -1,3 +1,13 @@
+Projectweek 1:
+Stef: Gebeurtenissenlijst opstellen
+<br />
+Stijn: Gebeurtenissenlijst opstellen
+<br />
+Simon: Gebeurtenissenlijst opstellen | Uploaden groepswerk
+<br />
+Andras: Gebeurtenissenlijst opstellen
+<br />
+<br />
 Stef: DFD 17-19 | GitHub | Nulde DFD
 <br />
 Stijn: DFD 7 en 9-12 | Gegroepeerde gebeurtenissen 1: organisatie | Nulde DFD
