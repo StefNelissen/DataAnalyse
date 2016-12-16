@@ -1,4 +1,5 @@
 Projectweek 1:
+<br />
 Stef: Gebeurtenissenlijst opstellen
 <br />
 Stijn: Gebeurtenissenlijst opstellen
