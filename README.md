@@ -1,5 +1,9 @@
 Stef: DFD 17-19 + GitHub
+__
 Stijn: DFD 9-12 + Gegroepeerde gebeurtenissen 1: organisatie
+__
 Simon: DFD 13-16 + Gegroepeerde gebeurtenissen 3: overzicht
+__
 Andras: 1-4 + Gegroepeerde gebeurtenissen 2: Geldzaken
-Christoph: 5-8
+__
+Christoph: DFD 5-8
