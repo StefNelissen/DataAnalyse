@@ -5,9 +5,11 @@ Stef: Gebeurtenissenlijst opstellen
 <br />
 Stijn: Gebeurtenissenlijst opstellen
 <br />
-Simon: Gebeurtenissenlijst opstellen | Uploaden groepswerk
+Simon: Gebeurtenissenlijst opstellen | Contextdiagram opstellen | Uploaden groepswerk
 <br />
 Andras: Gebeurtenissenlijst opstellen
+<br />
+Christoph: Gebeurtenissenlijst opstellen
 <br />
 <br />
 Stef: DFD 17-19 | GitHub | Nulde DFD
