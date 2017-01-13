@@ -27,7 +27,7 @@ Andras: DFD 1-4 | Gegroepeerde gebeurtenissen 2: Geldzaken
 Projectweek 3:
 <br />
 <br />
-Stef: Normalisatie Doc1, 2, 3, 4 en 5 | Afbeelding op Github|Uploaden
+Stef: Normalisatie Doc1, 2, 3, 4 en 5 | Github | Uploaden
 <br />
 Stijn: Normalisatie Doc1, 2, 3, 4 en 5
 <br />
