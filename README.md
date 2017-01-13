@@ -39,11 +39,11 @@ Andras: Normalisatie Doc3 en 4
 Projectweek 4:
 <br />
 <br />
-Stef: 
+Stef: Normalisatie via documenten
 <br />
-Stijn: 
+Stijn: Normalisatie via documenten|integratie
 <br />
-Simon: 
+Simon: Normalisatie via DFD
 <br />
-Andras: 
+Andras: Normalisatie via DFD
 
