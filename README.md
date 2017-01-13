@@ -39,11 +39,11 @@ Andras: Normalisatie Doc3 en 4
 Projectweek 4:
 <br />
 <br />
-Stef: Normalisatie via documenten | Github | uploaden
+Stef: Normalisatie via documenten | Github
 <br />
 Stijn: Normalisatie via documenten | integratie | Github | uploaden
 <br />
-Simon: Normalisatie via DFD|uploaden
+Simon: Normalisatie via DFD
 <br />
 Andras: Normalisatie via DFD
 
