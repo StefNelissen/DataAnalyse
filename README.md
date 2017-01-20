@@ -1,7 +1,7 @@
 Projectweek 1:
 <br />
 <br />
-Stef: Gebeurtenissenlijst opstellen
+Stef: Gebeurtenissenlijst opstellen | Github
 <br />
 Stijn: Gebeurtenissenlijst opstellen
 <br />
