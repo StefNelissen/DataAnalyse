@@ -46,4 +46,16 @@ Stijn: Normalisatie via documenten | integratie | Github | uploaden
 Simon: Normalisatie via DFD
 <br />
 Andras: Normalisatie via DFD
+<br />
+<br />
+Projectweek 4:
+<br />
+<br />
+Stef: ERD via DFD | ERD via documenten | uploaden | Github
+<br />
+Stijn: ERD via DFD | ERD via documenten
+<br />
+Simon: ERD via DFD | ERD via documenten
+<br />
+Andras: /
 
