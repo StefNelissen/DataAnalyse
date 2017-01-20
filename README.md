@@ -48,7 +48,7 @@ Simon: Normalisatie via DFD
 Andras: Normalisatie via DFD
 <br />
 <br />
-Projectweek 4:
+Projectweek 5:
 <br />
 <br />
 Stef: ERD via DFD | ERD via documenten | uploaden | Github
